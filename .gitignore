@@ -1,0 +1,5 @@
+# managed by mix dependencies
+deps
+# created by build process
+priv
+_build
